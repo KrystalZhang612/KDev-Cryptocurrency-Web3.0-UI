@@ -1,0 +1,4 @@
+in terminal:
+
+npm run build
+(run build a DIST)
