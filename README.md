@@ -28,7 +28,7 @@ possibility.
 # Build
 [Method to Run & Test the Project Locally](https://github.com/KrystalZhang612/KDev-Cryptocurrency-Web3.0-UI/blob/main/README.md#method-to-run--test-the-project-locally)<br/> 
 [Debugging&Troubleshooting](https://github.com/KrystalZhang612/KDev-Cryptocurrency-Web3.0-UI/blob/main/README.md#debuggingtroubleshooting)<br/> 
-[Tags and Topics]()
+[Tags and Topics](https://github.com/KrystalZhang612/KDev-Cryptocurrency-Web3.0-UI/blob/main/README.md#tags-and-topics)
 
 # Contribution
 [Author]()
