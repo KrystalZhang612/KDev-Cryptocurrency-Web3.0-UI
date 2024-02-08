@@ -10,4 +10,4 @@ enriching their browsing journey and fostering lasting connections. Moreover, ou
 integration of blockchain-powered public distributed ledgers. By harnessing blockchain technology, we not only enhance transparency and 
 decentralization but also fortify the integrity of user data and transactions. At KDev, we embrace the spirit of continuous innovation and evolution. 
 Our web application undergoes regular updates and enhancements, driven by a relentless pursuit of excellence and a passion for pushing the boundaries of technological 
-possibility. With KDev, we are not just building a web application; we are shaping the future of digital interaction and setting new standards for excellence in the industry.
+possibility. 
