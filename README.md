@@ -1,4 +1,4 @@
-# KDev -> Web 3.0, FinTech, MetaVerse, Cryptocurrency & More 
+# KDev -> Web 3.0, FinTech, MetaVerse, Cryptocurrency
 As the founder of my first startup company, KDev represents a pioneering venture into the realm of digital innovation and technological advancement. 
 With a vision fueled by a deep-seated commitment to addressing cybersecurity and privacy concerns, KDev stands as a beacon of modernity in the landscape of Web 3.0. 
 Led by Krystal Zhang, our team has meticulously crafted a web application that embodies our ethos of security, reliability, and innovation.
