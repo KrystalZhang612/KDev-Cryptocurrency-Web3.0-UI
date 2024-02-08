@@ -75,6 +75,11 @@ const socialMedia = [
   { id: 2, icon: github, link: "https://github.com/KrystalZhang612" }
 ];
 ```
+# Tags and Topics
+front-end, responsive, javascript, vscode, react-native-js, npm, npx, html5, css3, portolio, ui, ux-design
+
+# Author
+Krystal Zhang https://github.com/KrystalZhang612
 
 
 
