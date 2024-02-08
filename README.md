@@ -47,7 +47,7 @@ possibility.
 ### Start the webserver to test KDev Web3.0 Webapp by running: `npm run dev` at http://127.0.0.1:5173/
 ### Terminate the server by CONTROL+C
 ### Have fun browsing the responsive KDev UI! 
-
+## NOTE: Run `npm run build` to build into `dist` & deploy 
 # Debugging&Troubleshooting 
 Need to define `socialMedia` in [Footer.jsx](https://github.com/KrystalZhang612/KDev-Cryptocurrency-Web3.0-UI/blob/main/src/components/Footer.jsx) to let the social media icons display & clear console errors:<br />
 Import the social media svg or png icons from [src/assets/index.js](https://github.com/KrystalZhang612/KDev-Cryptocurrency-Web3.0-UI/blob/main/src/assets/index.js):
