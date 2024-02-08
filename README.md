@@ -27,7 +27,6 @@ possibility.
 
 # Build
 [Method to Run & Test the Project Locally](https://github.com/KrystalZhang612/KDev-Cryptocurrency-Web3.0-UI/blob/main/README.md#method-to-run--test-the-project-locally)<br/> 
-[Prerequisites & Setups]()<br/> 
 [Debugging&Troubleshooting]()<br/> 
 [Tags and Topics]()
 
@@ -48,6 +47,17 @@ possibility.
 ### Start the webserver to test KDev Web3.0 Webapp by running: `npm run dev` at http://127.0.0.1:5173/
 ### Terminate the server by CONTROL+C
 ### Have fun browsing the responsive KDev UI! 
+
+# Debugging&Troubleshooting 
+
+
+
+
+
+
+
+
+
 
 
 
