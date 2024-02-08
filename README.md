@@ -11,3 +11,8 @@ integration of blockchain-powered public distributed ledgers. By harnessing bloc
 decentralization but also fortify the integrity of user data and transactions. At KDev, we embrace the spirit of continuous innovation and evolution. 
 Our web application undergoes regular updates and enhancements, driven by a relentless pursuit of excellence and a passion for pushing the boundaries of technological 
 possibility. 
+
+## Copyright and Commercial Use Disclaimer
+⏬
+
+### *Please carefully read [LICENSE.md]() about the Open Source restrictions and the personal use policy of this project under [GPL-3.0 license](), any commericial uses on this project by other than the owner [@KrystalZhang612]() or the authorized users and organizations, will be subjected to copyright violation with subsequent legal potential concerns.*
