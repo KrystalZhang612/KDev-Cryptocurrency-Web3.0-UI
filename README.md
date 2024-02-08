@@ -15,4 +15,4 @@ possibility.
 ## Copyright and Commercial Use Disclaimer
 ⏬
 
-### *Please carefully read [LICENSE.md]() about the Open Source restrictions and the personal use policy of this project under [GPL-3.0 license](), any commericial uses on this project by other than the owner [@KrystalZhang612]() or the authorized users and organizations, will be subjected to copyright violation with subsequent legal potential concerns.*
+### *Please carefully read [LICENSE.md](https://github.com/KrystalZhang612/KDev-Cryptocurrency-Web3.0-UI/blob/main/LICENSE) about the Open Source restrictions and the personal use policy of this project under [GPL-3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html), any commericial uses on this project by other than the owner [@KrystalZhang612](https://github.com/KrystalZhang612) or the authorized users and organizations, will be subjected to copyright violation with subsequent legal potential concerns.*
