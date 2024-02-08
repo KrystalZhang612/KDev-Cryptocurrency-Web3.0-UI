@@ -26,7 +26,7 @@ possibility.
 
 
 # Build
-[Method to Run & Test the Project Locally]()<br/> 
+[Method to Run & Test the Project Locally](https://github.com/KrystalZhang612/KDev-Cryptocurrency-Web3.0-UI/blob/main/README.md#method-to-run--test-the-project-locally)<br/> 
 [Prerequisites & Setups]()<br/> 
 [Debugging&Troubleshooting]()<br/> 
 [Tags and Topics]()
