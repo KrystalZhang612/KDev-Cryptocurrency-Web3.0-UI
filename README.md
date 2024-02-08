@@ -49,11 +49,38 @@ possibility.
 ### Have fun browsing the responsive KDev UI! 
 
 # Debugging&Troubleshooting 
-Need to define `socialMedia` in [Footer.jsx](https://github.com/KrystalZhang612/KDev-Cryptocurrency-Web3.0-UI/blob/main/src/components/Footer.jsx) to let the social media icons display & clear console errors:
+Need to define `socialMedia` in [Footer.jsx](https://github.com/KrystalZhang612/KDev-Cryptocurrency-Web3.0-UI/blob/main/src/components/Footer.jsx) to let the social media icons display & clear console errors:<br />
+Import the social media svg or png icons from [src/assets/index.js](https://github.com/KrystalZhang612/KDev-Cryptocurrency-Web3.0-UI/blob/main/src/assets/index.js):
+```javascript
+import linkedin from "./linkedin.svg";
+import github from "./github.png";
+```
+Export:
+```javascript
+export{
+linkedin,
+github,
+...
+}
+```
+Import icon assets into Footer:
 ```javascript
 import { linkedin } from "../assets";
 import { github } from "../assets";
 ```
+Define `socialMedia` at the bottom right:
+```javascript
+const socialMedia = [
+  { id: 1, icon: linkedin, link: "https://www.linkedin.com/in/krystalzhang612/" },
+  { id: 2, icon: github, link: "https://github.com/KrystalZhang612" }
+];
+```
+
+
+
+
+
+
 
 
 
