@@ -43,6 +43,18 @@ possibility.
 | code 1.86.0   | :white_check_mark: |
 | react/react-dom@18.2.0   | :white_check_mark:                |
 
+# Method to Run & Test the Project Locally
+
+
+
+
+
+
+
+
+
+
+
 
 
 
